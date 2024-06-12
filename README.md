@@ -26,4 +26,5 @@ These folders contain data collected and assembled as part of this research proj
 ### Analysis
 These folders contain scripts and outputs associated with the prepartaion and analyses of the research project data.
 * **Data cleaning**: Scripts associated with the processing and cleaning of the survey data, along with a script description file.
-   * Note: Some code within each script file is not included. Code has been removed to protect participant confidentiality. 
+   * Note: Some code within each script file is not included. Code has been removed to protect participant confidentiality.
+* **Descriptive statistics**: Script and tables showing descriptive statistics for the various datasets. 

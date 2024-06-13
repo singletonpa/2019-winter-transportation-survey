@@ -14,6 +14,8 @@ This repository contains data and scripts associated with the ["Identifying Effe
       * Adults from households living in Cache County, Utah, were surveyed multiple times in winter (January-March) 2019. 
    * Statistical modeling of associations among activity patterns, travel behaviors, air pollution levels, air quality perceptions, attribution of responsibility over air pollution, and personal/household characteristics. 
 
+[![DOI](https://zenodo.org/badge/813258847.svg)](https://zenodo.org/doi/10.5281/zenodo.11640318)
+
 ## Description of files and folders
 
 * Many of these scripts were written in R. To use, [download R](https://cloud.r-project.org/) and then [download RStudio](https://posit.co/download/rstudio-desktop/#download).

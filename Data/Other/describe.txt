@@ -1,0 +1,14 @@
+Description of files in "Data/Other" folder
+
+* Note: All files are used in the "travel_behavior.R" script in the "Analysis" folder. 
+
+* AQ_2019_Cache.csv
+  - Daily air quality data for Cache County in 2019. 
+
+* mybg_new.xlsx, block_groups.xlsx
+  - Block groups selected for recruitment. 
+* tl_2019_49_bg.shp, tl_2019_16_bg.shp
+  - Shapefiles of 2019 block groups for Utah and Idaho. 
+
+* cache_weather.csv, cache_weather.rds
+  - Daily weather data for Cache County in 2019. 

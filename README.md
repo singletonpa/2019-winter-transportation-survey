@@ -16,6 +16,9 @@ This repository contains data and scripts associated with the ["Identifying Effe
 
 [![DOI](https://zenodo.org/badge/813258847.svg)](https://zenodo.org/doi/10.5281/zenodo.11640318)
 
+### Publications
+* Singleton, P. A., Humagain, P., Soltani Mandolakani, F., & Vahedi Saheli, M. (2024). *Investigating travel behavior and air quality in Northern Utah* (MPC-24-528). Mountain-Plains Consortium. https://rosap.ntl.bts.gov/view/dot/77220
+
 ## Description of files and folders
 
 * Many of these scripts were written in R. To use, [download R](https://cloud.r-project.org/) and then [download RStudio](https://posit.co/download/rstudio-desktop/#download).
@@ -24,10 +27,12 @@ This repository contains data and scripts associated with the ["Identifying Effe
 ### Data
 These folders contain data collected and assembled as part of this research project.
 * **Survey 2019 Winter**: Anonymized survey data collected, along with the survey questionnaires, a data description file, and a data dictionary file. 
-   * Note: Many original and intermediate datasets are not included. They have been removed to protect participant confidentiality. 
+   * Note: Many original and intermediate datasets are not included. They have been removed to protect participant confidentiality.
+* **Other**: Additional data used for the analysis of travel behavior and activity participation. 
 
 ### Analysis
 These folders contain scripts and outputs associated with the preparation and analyses of the research project data.
 * **Data cleaning**: Scripts associated with the processing and cleaning of the survey data, along with a script description file.
    * Note: Some code within each script file is not included. Code has been removed to protect participant confidentiality.
-* **Descriptive statistics**: Script and tables showing descriptive statistics for the various datasets. 
+* **Descriptive statistics**: Script and tables showing descriptive statistics for the various datasets.
+* **Travel behavior**: Scripts and results of analyses of travel behavior and activity participation outcomes. 
